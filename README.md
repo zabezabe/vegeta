@@ -28,7 +28,7 @@ $ go install
 
 ## 実行方法
 条件
-- 実行先URL: `http;//localhost/{url}`
+- 実行先URL: `http://localhost/{url}`
 - リクエスト数: 10rps
 - 実行時間: 5s
 - 結果ファイル名: result.bin
